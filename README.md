@@ -5,7 +5,7 @@ do  it when learing deep learning
 
 Please run the Cifar10Classification_GUI.py
 
-
+---
 
 Environment:
 
@@ -17,7 +17,7 @@ Environment:
 
 }
 
-
+---
 
 icon.jpg - the icon file of GUI
 
@@ -29,8 +29,9 @@ Cifar10_Classification.py - Model, Train, Predict
 
 Cifar10Classification_GUI.py - GUI File
 
-
+---
 
 Running picture
 
-![](https://github.com/whitebluepants/MnistClassification/Running.png)
+![](https://raw.githubusercontent.com/whitebluepants/CIFAR10Classification/master/Running.png)
+
